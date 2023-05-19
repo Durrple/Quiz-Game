@@ -17,4 +17,4 @@
 https://durrple.github.io/Quiz-Game/
 
 ## Github Repo:
-https://github.com/Durrple/Password-Quiz-Game/
+https://github.com/Durrple/Quiz-Game/
